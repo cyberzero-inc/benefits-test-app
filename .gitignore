@@ -2,4 +2,3 @@ build/
 dist/
 *.class
 .DS_Store
-lib/*.jar
